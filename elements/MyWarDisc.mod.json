@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "mywardisc",
+    "name": "My War",
+    "description": "Original single by Linked Horizon. Note block composition by Notesteotic Scorpion",
+    "creativeTab": {
+      "value": "CUSTOM:AttackOnTitanMusic"
+    },
+    "music": {
+      "value": "CUSTOM:mywar"
+    },
+    "specialInfo": [
+      "Go check them out on Spotify and Youtube!"
+    ],
+    "hasGlow": false
+  }
+}

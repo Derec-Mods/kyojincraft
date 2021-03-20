@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "gurennoyumiyadisc",
+    "name": "Guren No Yumiya",
+    "description": "Original single by Linked Horizon. Note block composition by The Noteblock Lizard ",
+    "creativeTab": {
+      "value": "CUSTOM:AttackOnTitanMusic"
+    },
+    "music": {
+      "value": "CUSTOM:gurennoyumiya"
+    },
+    "specialInfo": [
+      "Go check them out on Spotify and Youtube!"
+    ],
+    "hasGlow": false
+  }
+}

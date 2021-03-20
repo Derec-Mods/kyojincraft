@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="derec_kyojinmod"
+version="0.0.1.0"
+displayName="Derec's Titan Mod"
+credits="Derec_"
+displayURL="https://mcreator.net"
+authors="Derec_"
+description='''
+Attack on Titan in Minecraft!
+'''
+
+[[dependencies.derec_kyojinmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

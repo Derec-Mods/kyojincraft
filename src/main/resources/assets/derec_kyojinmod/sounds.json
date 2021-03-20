@@ -1,0 +1,32 @@
+{
+  "gurennoyumiya": {
+    "category": "record",
+    "subtitle": "subtitles.gurennoyumiya",
+    "sounds": [
+      {
+        "name": "derec_kyojinmod:gurennoyumiyanoteblocklizzard",
+        "stream": true
+      }
+    ]
+  },
+  "gurenoyumiyachorus": {
+    "category": "record",
+    "subtitle": "subtitles.gurenoyumiyachorus",
+    "sounds": [
+      {
+        "name": "derec_kyojinmod:gurennoyumiyachorus",
+        "stream": true
+      }
+    ]
+  },
+  "mywar": {
+    "category": "record",
+    "subtitle": "subtitles.mywar",
+    "sounds": [
+      {
+        "name": "derec_kyojinmod:mywarnotesteoticscorpion",
+        "stream": true
+      }
+    ]
+  }
+}
